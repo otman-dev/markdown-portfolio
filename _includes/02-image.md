@@ -1,1 +1,1 @@
-![image of Otman-dev](./otman-dev.png)
+![image of Otman-dev](../otman-dev.png)
